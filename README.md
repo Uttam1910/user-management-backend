@@ -22,23 +22,23 @@ npm run dev
 # API Endpoints
 
 # Register User
-# URL: /api/users/register
+URL: /api/users/register
 # Method: POST
-# Body:
-# {
-#   "name": "John Doe",
-#   "email": "john.doe@example.com",
-#   "password": "password123"
-# }
+Body:
+{
+  "name": "John Doe",
+  "email": "john.doe@example.com",
+  "password": "password123"
+}
 
 # Login User
-# URL: /api/users/login
+URL: /api/users/login
 # Method: POST
-# Body:
-# {
-#   "email": "john.doe@example.com",
-#   "password": "password123"
-# }
+ Body:
+ {
+   "email": "john.doe@example.com",
+   "password": "password123"
+ }
 
 # Screenshots
 # Register User
